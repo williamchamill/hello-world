@@ -1,2 +1,2 @@
 # hello-world
-this is a test to get used to repositories
+this is part 2 of the test
